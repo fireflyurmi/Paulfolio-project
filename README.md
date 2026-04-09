@@ -8,7 +8,7 @@ A sleek, dark-themed, and fully responsive personal portfolio designed for creat
 ---
 
 ### 📸 Project Preview
-![Project Preview](./preview.png)
+![Project Preview](preview.png)
 
 ---
 
